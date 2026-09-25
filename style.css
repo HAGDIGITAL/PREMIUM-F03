@@ -5,6 +5,19 @@
 @import url('https://fonts.googleapis.com/css2?family=Great+Vibes&family=Cormorant+Garamond:wght@300;400;500;600;700&family=Montserrat:wght@300;400;500;600;700&display=swap');
 
 
+/* ==========================================
+   LOCK WEBSITE TO LIGHT MODE
+========================================== */
+
+html{
+    color-scheme: only light;
+}
+
+body{
+    color-scheme: only light;
+    forced-color-adjust: none;
+}
+
 /* ===================================================
         RESET
 =================================================== */
